@@ -3,6 +3,8 @@
 
 
 This is a simple clock project built using JavaScript, HTML, and CSS. The project aims to create a functional clock that displays the current time, and can be used as a basic clock application.
+## Live site
+ https://suhanar.github.io/Clock/
 # Prerequisites
 
 To run this project, you will need a web browser that supports JavaScript, HTML, and CSS. Some examples of web browsers that meet this requirement include Google Chrome, Mozilla Firefox, and Microsoft Edge.
